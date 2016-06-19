@@ -2,7 +2,7 @@
 using System.Linq;
 using Xunit;
 
-namespace FunFaker.Tests
+namespace Zippable.Tests
 {
     public class WeightedCollectionTests
     {

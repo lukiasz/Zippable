@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Zippable</id>
+    <version>0.0.0.1</version>
+    <title>Zippable</title>
+    <authors>Lukasz Olender</authors>
+    <owners>Lukasz Olender</owners>
+    <licenseUrl>https://raw.githubusercontent.com/lukiasz/Zippable/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/lukiasz/Zippable</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/lukiasz/Zippable/master/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tiny library with generic Zip implementation for C# enumerables and some small tools that make complex POCOs generation easier.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <tags>zippable ienumerable zipping monad linq faker</tags>
+  </metadata>
+</package>

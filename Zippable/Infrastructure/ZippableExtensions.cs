@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FunFaker
+namespace Zippable
 {
     /// <summary>
     /// Replacement for original, Linq SelectMany method for convinient generating of

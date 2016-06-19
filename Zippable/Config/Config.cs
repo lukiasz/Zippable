@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FunFaker
+namespace Zippable
 {
     /// <summary>
     /// Used for shuffling data in WeightedCollection.

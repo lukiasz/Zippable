@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FunFaker
+namespace Zippable
 {
     public static class Extensions
     {

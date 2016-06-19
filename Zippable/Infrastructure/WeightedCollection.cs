@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FunFaker
+namespace Zippable
 {
     public class WeightedCollection<T> : IReadOnlyCollection<T>
     {

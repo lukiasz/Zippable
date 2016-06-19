@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace FunFaker
+namespace Zippable
 {
     public class Zippable<T> : IZippable<T>
     {

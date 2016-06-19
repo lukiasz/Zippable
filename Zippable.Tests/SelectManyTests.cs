@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Xunit;
-using FunFaker;
+using Zippable;
 
-namespace FunFaker.Tests
+namespace Zippable.Tests
 {
     public class SelectManyTests
     {
