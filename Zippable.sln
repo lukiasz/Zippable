@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zippable", "Zippable\Zippable.csproj", "{DDFEF3B4-E55A-448D-B7E4-9709B68D03DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zippable.Tests", "Zippable.Tests\Zippable.Tests.csproj", "{125506D5-1111-4730-9636-8365D9140A69}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DDFEF3B4-E55A-448D-B7E4-9709B68D03DD} = {DDFEF3B4-E55A-448D-B7E4-9709B68D03DD}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFEF3B4-E55A-448D-B7E4-9709B68D03DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFEF3B4-E55A-448D-B7E4-9709B68D03DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFEF3B4-E55A-448D-B7E4-9709B68D03DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFEF3B4-E55A-448D-B7E4-9709B68D03DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125506D5-1111-4730-9636-8365D9140A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125506D5-1111-4730-9636-8365D9140A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125506D5-1111-4730-9636-8365D9140A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125506D5-1111-4730-9636-8365D9140A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
